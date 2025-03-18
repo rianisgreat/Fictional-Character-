@@ -1,0 +1,44 @@
+@font-face {
+    font-family:"Cartoon"; 
+    src: url(Okay\ Jelly.otf); 
+}
+h{
+font-size: 20px;
+}
+.bigp{
+font-size: 15px;
+font-family:Cartoon;
+color: #7d6400;
+}
+.titlecoyote{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color:#e4d6af
+}
+p{
+    font: size 20px;
+    font-family:'Courier New', Courier, monospace;
+    color: #D10005;
+}
+.img1{
+   border-style:solid;
+   margin: 10px;
+   border-color:#FFFFAA; 
+}
+.img2{
+    border-style:solid;
+    margin: 10px;
+    border-color:#D10005;
+ }
+ .img3{
+    border-style:solid;
+    margin: 10px;
+    border-color:#7d6400;
+ }
+ .img4{
+    border-style:solid;
+    margin: 10px;
+    border-color:#e4d6af;
+ }
+
+
